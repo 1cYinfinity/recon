@@ -5,3 +5,4 @@ go get -u github.com/tomnomnom/gf
 cp gf /usr/local/bin
 cp waybackurls /usr/local/bin
 sudo apt install subfinder
+clear
